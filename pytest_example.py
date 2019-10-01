@@ -1,0 +1,3 @@
+print(hello!)
+
+assert True
